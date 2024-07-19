@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main()
+{
+int n;
+scanf("The no is :%d",n);
+if(n==0)
+printf("The no is +ve");
+else
+printf("The no is -ve");
+}
